@@ -7,3 +7,7 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+
+# local sqlite task store
+tasks.db
+tasks.db-*
